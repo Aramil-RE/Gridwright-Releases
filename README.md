@@ -15,21 +15,22 @@ Que vous prépariez une rénovation, un déménagement, l’aménagement d’une
 - **Aménager chaque pièce** grâce à un catalogue complet (salons, chambres, salles de bain, cuisines équipées, îlots centraux, électroménager, luminaires et décoration).
 - **Simuler vos portes et fenêtres** : ouvrez ou fermez vos portes en un clic (animation fluide en 2D & 3D, réglage de l’angle d’ouverture et du sens) et ajustez librement la largeur, la hauteur et l’allège de chaque fenêtre.
 - **Explorer votre projet en 3D réaliste** avec gestion multi-étages et **simulation solaire 24h (Jour / Soleil / Nuit)** : testez l’ensoleillement selon l’heure, la saison et l’orientation Nord, puis allumez l’éclairage intérieur de nuit.
+- **Exporter vos plans en PDF vectoriel coté (A4 / A3)** : dessin ultra-net à l’échelle avec cotes des murs, emprise totale, boussole Nord, cartouche projet, tableau des portes/fenêtres et légende complète du mobilier sur le côté.
 - **Concevoir plus vite avec l’Assistant IA (optionnel)** : décrivez la pièce ou le logement que vous imaginez dans le champ IA pour générer ou modifier votre plan automatiquement. Il vous suffit d’ajouter votre propre clé API dans **Options → IA** *(compatible OpenAI, Claude, Gemini, Mistral, Groq, DeepSeek, OpenRouter, xAI, Ollama, etc.)*.
 
 ---
 
-## Téléchargement & Installation (v0.1.3)
+## Téléchargement & Installation (v0.1.4)
 
 Rendez-vous dans la page **[Releases](https://github.com/Aramil-RE/Gridwright-Releases/releases/latest)** et téléchargez l’installateur correspondant à votre ordinateur :
 
 ### Windows (64 bits)
-1. Téléchargez **`Gridwright.Studio.Setup.0.1.3.exe`**.
+1. Téléchargez **`Gridwright.Studio.Setup.0.1.4.exe`**.
 2. Double-cliquez sur le fichier pour lancer l’installateur.
 3. Un raccourci **Gridwright Studio** est automatiquement créé sur votre Bureau et dans le Menu Démarrer.
 
 ### macOS (Apple Silicon — M1 / M2 / M3 / M4)
-1. Téléchargez **`Gridwright.Studio-0.1.3-arm64.dmg`**.
+1. Téléchargez **`Gridwright.Studio-0.1.4-arm64.dmg`**.
 2. Ouvrez le fichier `.dmg` et glissez **Gridwright Studio** dans le dossier **Applications**.
 3. *(Au premier lancement, si macOS affiche un avertissement de sécurité, faites **clic droit → Ouvrir** sur l’application.)*
 

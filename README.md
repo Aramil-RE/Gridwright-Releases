@@ -25,14 +25,16 @@ Que vous prépariez une rénovation, un déménagement, l’aménagement d’une
 Rendez-vous dans la page **[Releases](https://github.com/Aramil-RE/Gridwright-Releases/releases/latest)** et téléchargez l’installateur correspondant à votre ordinateur :
 
 ### Windows (64 bits)
-1. Téléchargez **`Gridwright.Studio.Setup.0.2.0.exe`**.
+1. Téléchargez **`Gridwright-Studio-Setup-0.2.0-Windows-x64.exe`**.
 2. Double-cliquez sur le fichier pour lancer l’installateur.
 3. Un raccourci **Gridwright Studio** est automatiquement créé sur votre Bureau et dans le Menu Démarrer.
 
-### macOS (Apple Silicon — M1 / M2 / M3 / M4)
-1. Téléchargez **`Gridwright.Studio-0.2.0-arm64.dmg`**.
+### macOS (Apple Silicon & Intel)
+1. Téléchargez le fichier correspondant à votre Mac :
+   - **Mac Apple Silicon (M1 / M2 / M3 / M4)** : **`Gridwright-Studio-0.2.0-macOS-arm64.dmg`**
+   - **Mac Intel** : **`Gridwright-Studio-0.2.0-macOS-x64.dmg`**
 2. Ouvrez le fichier `.dmg` et glissez **Gridwright Studio** dans le dossier **Applications**.
-3. *(Au premier lancement, si macOS affiche un avertissement de sécurité, faites **clic droit → Ouvrir** sur l’application.)*
+3. *(Au premier lancement, si macOS affiche un avertissement de sécurité, allez dans **Réglages Système → Confidentialité et sécurité → Ouvrir quand même**, ou exécutez une fois dans le Terminal : `xattr -cr "/Applications/Gridwright Studio.app"`.)*
 
 ---
 

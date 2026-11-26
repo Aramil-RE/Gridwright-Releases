@@ -4,7 +4,7 @@ Studio d’architecture d’intérieur **2D & 3D** 100 % autonome (hors-ligne), 
 
 ---
 
-## Téléchargement (Dernière version : v0.1.3-r4)
+## Téléchargement (Dernière version : v0.1.3-r6)
 
 Rendez-vous dans la section **[Releases](https://github.com/Aramil-RE/Gridwright-Releases/releases/latest)** pour télécharger l’installateur adapté à votre système :
 

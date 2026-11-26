@@ -1,31 +1,50 @@
 # Gridwright Studio
 
-Studio d’architecture d’intérieur **2D & 3D** 100 % autonome (hors-ligne), installable sur **Windows** et **macOS**, avec précision millimétrée, assistant IA universel, rendu 3D PBR temps réel, cuisines & électroménager complets et simulation **Jour / Soleil / Nuit 24h**.
+**Gridwright Studio** est une application d’architecture d’intérieur et d’aménagement **2D & 3D** conçue pour imaginer, mesurer et visualiser vos pièces, appartements ou maisons avec une précision millimétrée — **100 % hors-ligne** et directement sur votre ordinateur.
+
+> **Systèmes compatibles : disponible uniquement sur Windows et macOS.**
 
 ---
 
-## Téléchargement (Dernière version : v0.1.3-r6)
+## À quoi sert Gridwright Studio ?
 
-Rendez-vous dans la section **[Releases](https://github.com/Aramil-RE/Gridwright-Releases/releases/latest)** pour télécharger l’installateur adapté à votre système :
+Que vous prépariez une rénovation, un déménagement, l’aménagement d’une cuisine ou la conception d’un logement complet, **Gridwright Studio** vous permet de :
+
+- **Dessiner vos plans en 2D** au millimètre près (ou importer une image de plan existant et la calibrer à l’échelle réelle).
+- **Connaître vos surfaces exactes** en temps réel (surface utile intérieure et surface entre axes) ainsi que les distances exactes entre vos meubles et vos murs.
+- **Aménager chaque pièce** grâce à un catalogue complet (salons, chambres, salles de bain, cuisines équipées, îlots centraux, électroménager, luminaires et décoration).
+- **Simuler vos portes et fenêtres** : ouvrez ou fermez vos portes en un clic (animation fluide en 2D & 3D, réglage de l’angle d’ouverture et du sens) et ajustez librement la largeur, la hauteur et l’allège de chaque fenêtre.
+- **Explorer votre projet en 3D réaliste** avec gestion multi-étages et **simulation solaire 24h (Jour / Soleil / Nuit)** : testez l’ensoleillement selon l’heure, la saison et l’orientation Nord, puis allumez l’éclairage intérieur de nuit.
+- **Concevoir plus vite avec l’Assistant IA (optionnel)** : décrivez la pièce ou le logement que vous imaginez dans le champ IA pour générer ou modifier votre plan automatiquement. Il vous suffit d’ajouter votre propre clé API dans **Options → IA** *(compatible OpenAI, Claude, Gemini, Mistral, Groq, DeepSeek, OpenRouter, xAI, Ollama, etc.)*.
+
+---
+
+## Téléchargement & Installation (v0.1.3)
+
+Rendez-vous dans la page **[Releases](https://github.com/Aramil-RE/Gridwright-Releases/releases/latest)** et téléchargez l’installateur correspondant à votre ordinateur :
 
 ### Windows (64 bits)
-- Téléchargez et exécutez **`Gridwright.Studio.Setup.0.1.3.exe`**
-- Installation complète avec raccourci Bureau, Menu Démarrer et désinstalleur Windows.
+1. Téléchargez **`Gridwright.Studio.Setup.0.1.3.exe`**.
+2. Double-cliquez sur le fichier pour lancer l’installateur.
+3. Un raccourci **Gridwright Studio** est automatiquement créé sur votre Bureau et dans le Menu Démarrer.
 
-### macOS (Apple Silicon M1 / M2 / M3 / M4)
-- Téléchargez **`Gridwright.Studio-0.1.3-arm64.dmg`** et glissez **Gridwright Studio** dans *Applications*.
-- *(Au premier lancement, si macOS affiche « développeur non identifié », faites **clic droit → Ouvrir** sur l’application.)*
+### macOS (Apple Silicon — M1 / M2 / M3 / M4)
+1. Téléchargez **`Gridwright.Studio-0.1.3-arm64.dmg`**.
+2. Ouvrez le fichier `.dmg` et glissez **Gridwright Studio** dans le dossier **Applications**.
+3. *(Au premier lancement, si macOS affiche un avertissement de sécurité, faites **clic droit → Ouvrir** sur l’application.)*
 
 ---
 
-## Fonctionnalités principales
+## Mises à jour automatiques
 
-- **Plan 2D de précision millimétrée (1 mm & 0,1°)** : tracé de murs avec magnétisme, calcul exact de la surface utile intérieure et entre axes, distances exactes aux faces des murs, outil mesure (`M`), import et calibration de plan image.
-- **Portes & Fenêtres réalistes** : simulation **porte ouverte / fermée** animée à 60 ips en 2D & 3D (angle `0°–110°`, sens d’ouverture, charnière G/D, double-clic direct) ; réglages complets des fenêtres (largeur, hauteur, allège, linteau, surface vitrée, formats standards).
-- **Rendu 3D PBR hors-ligne** : matériaux réalistes (parquet chêne, plâtre, marbre, inox, verre), plinthes, menuiseries 1/2/3 vantaux, meubles et électroménager complets.
-- **Cycle Jour / Soleil / Nuit 24h** : orientation Nord, saisons, faisceaux solaires par les fenêtres, ciel étoilé, Lune 3D et éclairage intérieur automatique la nuit.
-- **Assistant IA Universel** : concevez ou modifiez vos plans par prompt depuis l’écran d’accueil ou l’onglet **IA** de l’atelier. Renseignez votre clé API personnelle dans *Options → IA* (compatible **OpenAI, Anthropic Claude, Google Gemini, Mistral, Groq, DeepSeek, OpenRouter, xAI, Ollama** ou toute API compatible OpenAI).
-- **Mises à jour intégrées** : notification visuelle automatique dès qu’une nouvelle version est disponible dans *Options → Mises à jour*.
+Gridwright Studio vous prévient automatiquement grâce à une **pastille visuelle sur le bouton Options** dès qu’une nouvelle version est disponible. Ouvrez simplement **Options → Mises à jour** pour consulter les nouveautés et télécharger la dernière version.
+
+---
+
+## Confidentialité
+
+- Vos projets sont sauvegardés **uniquement en local** sur votre ordinateur.
+- L’application fonctionne **hors-ligne** (une connexion Internet n’est utile que si vous vérifiez les mises à jour ou utilisez l’assistant IA avec votre propre clé API).
 
 ---
 
